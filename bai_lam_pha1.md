@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:**VĂN HỮU LUÂN
 - **Lớp:**CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/IT101-CNTT1KS26/-CNTT1-_PromptAI_H02_Pha1.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
